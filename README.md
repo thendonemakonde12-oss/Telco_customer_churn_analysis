@@ -34,7 +34,7 @@
 - Feature Correlation with Churn:
   <img width="1783" height="1181" alt="correlation_chart" src="https://github.com/user-attachments/assets/4b96decd-acb2-4191-bf5a-85fa435486a1" />
 
-#** How to run This project:**
+# **How to run This project:**
 
 (Open Visual Studio Code or Command Prompt and type the following/copy and paste)
 
