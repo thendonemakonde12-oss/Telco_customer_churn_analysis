@@ -15,10 +15,51 @@
 - Strongest churn driver: Fiber optic internet with a correlation of 0.308
 - Strongest retention factor: Long tenure with a correlation of -0.352
 
-# Project Structure
+# Project Structure:
+
 <img width="682" height="562" alt="Screenshot 2026-09-09 152018" src="https://github.com/user-attachments/assets/8ac71aec-4bad-4f87-aec2-154c9587385c" />
 
 # Tasks Completed:
 
-* Task 1 - Data Cleaning and Preprocessing:
-  
+* Task 1 - Data Cleaning and Preprocessing
+* Task 2 - Exploratory Data Analysis
+* Task 3 - Customer Segmentation
+* Task 6 - Advanced Visulization
+
+# Visualization:
+
+ - Churn Rate Heatmap by Tenure and Monthly Charges:
+   <img width="1484" height="885" alt="heatmap" src="https://github.com/user-attachments/assets/a6fabdb6-439f-43cc-a3ca-d3ae1238f497" />
+
+- Feature Correlation with Churn:
+  <img width="1783" height="1181" alt="correlation_chart" src="https://github.com/user-attachments/assets/4b96decd-acb2-4191-bf5a-85fa435486a1" />
+
+#** How to run This project:**
+
+(Open Visual Studio Code or Command Prompt and type the following/copy and paste)
+
+1. Clone the repository:
+   git clone https://github.com/yourusername/telco-customer-churn-analysis.git
+
+2. Install required libraries:
+   pip install pandas matplotlib seaborn jupyter notebook
+
+3. Launch Jupyter Notebook:
+   jupyter notebook
+
+# Tech stack:
+Python 3 - Core programming language
+pandas - Data loading, cleaning and manipulation
+matplotlib - Basic chart creation
+seaborn - Advanced visualization
+Jupyter Notebook - Interactive development environment
+VS Code - Code editor
+
+# Author:
+**Thendo Nemakonde**
+Diploma in Computer Engineering - Cape Peninsula University of Technology
+LinkedIn: www.linkedin.com/in/thendo-nemakonde-375801337
+
+# This project is open source and available.
+
+
