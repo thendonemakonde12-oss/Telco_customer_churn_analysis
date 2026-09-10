@@ -39,7 +39,7 @@
 (Open Visual Studio Code or Command Prompt and type the following/copy and paste)
 
 1. Clone the repository:
-  - git clone https://github.com/thendonemakonde12-oss/telco-customer-churn-analysis.git
+  - git clone https://github.com/thendonemakonde12-oss/Telco_customer_churn_analysis.git
 
 2. Install required libraries:
   - pip install pandas matplotlib seaborn jupyter notebook
