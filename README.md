@@ -48,17 +48,17 @@
   - jupyter notebook
 
 # Tech stack:
-Python 3 - Core programming language
-pandas - Data loading, cleaning and manipulation
-matplotlib - Basic chart creation
-seaborn - Advanced visualization
-Jupyter Notebook - Interactive development environment
-VS Code - Code editor
+- Python 3 - Core programming language
+- pandas - Data loading, cleaning and manipulation
+- matplotlib - Basic chart creation
+- seaborn - Advanced visualization
+- Jupyter Notebook - Interactive development environment
+- VS Code - Code editor
 
 # Author:
 **Thendo Nemakonde**
-Diploma in Computer Engineering - Cape Peninsula University of Technology
-LinkedIn: www.linkedin.com/in/thendo-nemakonde-375801337
+- Diploma in Computer Engineering - Cape Peninsula University of Technology
+- LinkedIn: www.linkedin.com/in/thendo-nemakonde-375801337
 
 # This project is open source and available.
 
